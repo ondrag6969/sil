@@ -1,0 +1,1 @@
+30 22 * * *    root screen -S sil_bs -d -m /usr/local/bin/sil.sh bs

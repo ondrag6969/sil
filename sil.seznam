@@ -1,0 +1,3 @@
+# seznam virtuálů pro BS a NAS
+seznam="01-samba1 rasp2 07-voip 08-win5 09-mfiles 11-sk2 12-windc 15-srv-dc02 16-srv-fil01 17-srv-rds01 21-srv-com01"
+seznam="01-samba1"
