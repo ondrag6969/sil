@@ -3,7 +3,7 @@
 #set -x # debug
 set -o pipefail
 
-verze=2.0-rc6
+verze=2.1
 
 export LVM_SUPPRESS_FD_WARNINGS=1
 export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin

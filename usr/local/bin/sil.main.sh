@@ -1,4 +1,4 @@
-# verze 2.0-rc6
+# verze 2.1
 ##
 ##
 ## Nápověda
